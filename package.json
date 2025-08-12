@@ -1,0 +1,17 @@
+{
+  "name": "custom-tokenizer-cli",
+  "version": "1.0.0",
+  "description": "A custom tokenizer CLI implementation",
+  "main": "src/cli.js",
+  "type": "module",
+  "scripts": {
+    "tokencli": "node src/cli.js"
+  },
+  "keywords": ["tokencli"],
+  "author": "Roshan Bhoge",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "commander": "^14.0.0"
+  }
+}

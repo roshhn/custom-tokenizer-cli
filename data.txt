@@ -1,0 +1,5 @@
+Hello world! This is a sample text for training our custom tokenizer.
+It handles punctuation, special tokens, and vocabulary learning.
+Natural language processing is fascinating!
+The quick brown fox jumps over the lazy dog.
+I am Roshan Bhoge, I am Software Enginner.
